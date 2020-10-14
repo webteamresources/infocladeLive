@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/infocladeLive/static/css/main.e4b0e1cc.chunk.css",
+    "main.js": "/infocladeLive/static/js/main.a37852c0.chunk.js",
+    "main.js.map": "/infocladeLive/static/js/main.a37852c0.chunk.js.map",
+    "runtime-main.js": "/infocladeLive/static/js/runtime-main.a6a35803.js",
+    "runtime-main.js.map": "/infocladeLive/static/js/runtime-main.a6a35803.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/infocladeLive/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e9db675d.chunk.js": "/infocladeLive/static/js/2.e9db675d.chunk.js",
+    "static/js/2.e9db675d.chunk.js.map": "/infocladeLive/static/js/2.e9db675d.chunk.js.map",
+    "index.html": "/infocladeLive/index.html",
+    "precache-manifest.6f2480210fb9ece582389cc941f2839a.js": "/infocladeLive/precache-manifest.6f2480210fb9ece582389cc941f2839a.js",
+    "service-worker.js": "/infocladeLive/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/infocladeLive/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.e4b0e1cc.chunk.css.map": "/infocladeLive/static/css/main.e4b0e1cc.chunk.css.map",
+    "static/js/2.e9db675d.chunk.js.LICENSE.txt": "/infocladeLive/static/js/2.e9db675d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a35803.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.e9db675d.chunk.js",
+    "static/css/main.e4b0e1cc.chunk.css",
+    "static/js/main.a37852c0.chunk.js"
+  ]
+}
